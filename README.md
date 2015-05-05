@@ -27,7 +27,7 @@ have the choice of  an  aircraft_carrier (length 5), a battleship (length 4), a 
 is a made by coordinates that can be hit by the opponent.
 must sink when hit all over its length.
 must not overlap
-must remain contrained to board dimensions(10x10 squares)
+must remain contained to board dimensions(10x10 squares)
 
 -Grid:
 

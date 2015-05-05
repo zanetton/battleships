@@ -1,0 +1,82 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/spec/features/1player_1ship_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/lib/port.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/lib/ship.rb": [
+        1,
+        null
+      ],
+      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/spec/port_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1430847969
+  }
+}
