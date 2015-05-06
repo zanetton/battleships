@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/spec/features/1player_1ship_spec.rb": [
+      "/Users/makerslaptop079/Documents/Projects/battle_ships/battleships/spec/features/1player_1ship_spec.rb": [
         1,
         1,
         null,
@@ -10,13 +10,20 @@
         1,
         1,
         1,
+        1,
         null,
         null,
         1,
         1,
         1,
+        11,
+        2,
+        null,
         1,
-        0,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         null,
@@ -33,30 +40,51 @@
         null,
         null
       ],
-      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/lib/port.rb": [
+      "/Users/makerslaptop079/Documents/Projects/battle_ships/battleships/lib/port.rb": [
         1,
         null,
         1,
         null,
         1,
-        0,
-        0,
+        null,
+        1,
+        6,
+        6,
         null,
         null,
         1,
+        25,
+        23,
         null,
         null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        25,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/makerslaptop079/Documents/Projects/battle_ships/battleships/lib/ship.rb": [
+        1,
         null,
         1,
         1,
         null,
         null
       ],
-      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/lib/ship.rb": [
-        1,
-        null
-      ],
-      "/Users/cmanessis/Desktop/makers/Projects/week2/battleships/spec/port_spec.rb": [
+      "/Users/makerslaptop079/Documents/Projects/battle_ships/battleships/spec/port_spec.rb": [
         1,
         1,
         null,
@@ -69,14 +97,15 @@
         null,
         1,
         1,
-        1,
-        0,
+        11,
+        2,
+        null,
         null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1430847969
+    "timestamp": 1430925218
   }
 }

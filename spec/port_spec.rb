@@ -2,7 +2,7 @@ require 'port'
 require 'ship'
 
 describe Port do
-  it {is_expected.to respond_to :dock.with(1).argument}
+  it {is_expected.to respond_to(:dock).with(1).argument}
 
   it 'allows ship to be docked' do
   port = Port.new
@@ -13,6 +13,7 @@ end
   capacity.times{subject.dock Ship.new}
   expect{subject.dock Ship.new}.to raise_error 'Overlap!'
 end
+  
 
 
 end
